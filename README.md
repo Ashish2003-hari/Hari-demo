@@ -1,2 +1,0 @@
-# Hari-demo
-Hello git.
